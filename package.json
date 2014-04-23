@@ -1,0 +1,23 @@
+{
+    "name": "jumei_static_files",
+    "version": "1.0.0",
+    "jsdir": "scaffold/src",
+    "modules_dir": "scaffold/sea-modules",
+    "v_jsdir": "v1.2/",
+    "test_dir": "scaffold/test/",
+    "cssdir": "scaffold/css/",
+    "imgdir": "scaffold/images/",
+    "mincssdir": "scaffold/css/min/",
+    "v_cssdir": "scaffold/css/v1.2/",
+    "devDependencies": {
+        "grunt": "0.4.1",
+        "grunt-cmd-concat": "~0.2.7",
+        "grunt-cmd-transport": "~0.4.1",
+        "grunt-contrib-clean": "~0.4.0",
+        "grunt-contrib-connect":"~0.7.1",
+        "grunt-contrib-cssmin": "0.6.1",
+        "grunt-contrib-uglify": "0.2.2",
+        "grunt-contrib-qunit": "~0.4.0",
+        "grunt-qunit-istanbul": "~0.4.0"
+    }
+}
